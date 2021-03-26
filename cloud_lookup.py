@@ -136,7 +136,7 @@ def print_table_fflog(first_name, last_name, server):
     print(first_name, last_name, ',', server, ', **' , diff, '** ')
     print()
     print(df2)
-    print('==========================================================')
+    print('==================================================================')
 
     
 def get_name_server(chat_msg):
